@@ -1,0 +1,30 @@
+MKDIR <your dir name>
+cd <your dir name>
+touch <name>
+cd ../
+git add .
+git status 
+git commit -m "your name"
+git log
+git push
+git pull--rebase
+git push
+rm -rf file/dir
+============
+rm -rf madhu/
+git status
+git add .
+git commit-m "madhu deleting"
+git push
+git log --oneline short
+git loh --oneline -name
+git log --oneline -5
+git log --oneline -10
+git log --author name -name
+q to clear 
+git log --grep name
+git log --grep deleting
+git log --since 10-01-2022
+git log --before 20-12-2021
+
+git log long
